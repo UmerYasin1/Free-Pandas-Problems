@@ -1,0 +1,23 @@
+Pandas question
+a) load the csv in dataframe and label it as df1.
+b) find the mean age of females
+c) find the number of males
+d) Replace the term "Teachers" with "Teacher"
+d) find the total number of Teachers
+e) how many teachers live in DHA
+f) change the residence "Cant" to "Cantt"
+g) how many people are under 25
+h) Find the mean score of teachers
+i) find the lowest score of female and male 
+j) Any person with weight above 66 is overweight. How many males are overweight
+k) Find the mean score of people living in Cantt
+l) find the lowest and highest score of Lawyers and write the names 
+m) Make another column with BMI and multiply height and weight in the column and display the new dataframe
+n) how many chefs have bmi of greater than 10000
+o) Calculate the mean age for each different occupation
+p) calculate the mean score for each resident
+q) Count the number of each type of occupation 
+
+
+
+<-----------------End --------------------->
